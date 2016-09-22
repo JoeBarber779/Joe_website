@@ -1,14 +1,16 @@
-h1{
-	color:orange ;
-}
+h1{color:orange ;}
 .one {width: 40%;
-height: 25px;
-}
+height: 25px;}
 .two {width: 55%;
-height 25px;
-}
+height: 25px;}
 .three{width: 50%;
-height: 25px;
-}
+height: 25px;}
 .header {width: 100%;
-}
+color: white;
+background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-9/13516358_2057349354490332_2784200881609321899_n.jpg?oh=61fa32b4973617b25cd7bc73fa0b0954&oe=587E689B);
+background-repeat: no-repeat;}
+.four{width: 60%;
+height: 25px;
+color: green;}
+.main{width:50%;
+height:100px;}
