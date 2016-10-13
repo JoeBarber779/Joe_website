@@ -26,12 +26,12 @@ padding-left: 30%;
 
 
 
-.header {width: 60%;
+.header {width: 71%;
 	height: 200px;
 	color: black;
 font-family: 'Arvo', serif;
-font-size: 80px;
- padding-left: 40%;
+font-size: 150px;
+ padding-left: 29%;
 background-color: #FF7800;
 }
 
@@ -49,11 +49,11 @@ padding-left: 27%;
 height:100px;}
 
 
-.five{width: 56%;
+.five{width: 57%;
 	background-color: #19D4FF;
 	font-family: 'Roboto Slab', serif;
 	font-size: 50px;
-	padding-left: 44%;
+	padding-left: 43%;
 }
 
 
@@ -76,3 +76,18 @@ background-color: rgba(73,65,46,1);
 
 .seven{padding-left: 22%;	
 }
+
+
+
+nav li {display: inline-block;
+border: 5px;
+border-color: white;
+border-style: solid;
+margin-left: 50px;
+}
+
+nav {text-align: center;
+	font-size: 50px;
+	font-family: 'Permanent Marker', cursive;
+}
+
